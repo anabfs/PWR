@@ -10,7 +10,14 @@ main {
     border-radius: 10px;
 }
 
-.logo {
+.logo,
+.manchete,
+.headline {
+    margin: 0;
+    text-align: center;
+}
+
+.video {
     margin: 0;
     text-align: center;
 }
